@@ -2,6 +2,7 @@
 
 <details>
   <summary> ES6: Basic Programs </summary>
+  1. ES6 first Hello World program.
   
 </details>
 
