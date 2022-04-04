@@ -2,7 +2,7 @@
 
 <details>
   <summary> ES6: Basic Programs </summary>
-  1. ECMAScript 2015 (ES6) Hello World Progra.
+  1. ECMAScript 2015 (ES6) Hello World Program.
   
 </details>
 
