@@ -2,7 +2,7 @@
 
 <details>
   <summary> ES6: Basic Programs </summary>
-  1. ECMAScript 2015 (ES6) Hello World Program.
+  1. ECMAScript 2015 (ES6) Hello World Program. <br />
   2. Write a program to print your name, date of birth, mobile no, email id and address on the console screen.
   <details>
     <summary> Test Output </summary>
