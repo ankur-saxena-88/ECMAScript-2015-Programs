@@ -17,9 +17,16 @@
   3. Write a program to print multiline string on the console screen.
   <details>
     <summary> Test Output </summary>
-    Hello, Xyz World! <br />
-    Welcome to Abc programming... <br />
-    Let us learn Abc programming language. <br />
+    Hello, ES6 World! <br />
+    Welcome to ES6 programming... <br />
+    Let us learn ES6 programming language. <br />
+  </details>
+  4. Write a program to print multiline string on the console screen using new line '\n' escape sequence.
+  <details>
+    <summary> Test Output </summary>
+    Hello, ES6 World! <br />
+    Welcome to ES6 programming... <br />
+    Let us learn ES6 programming language. <br />
   </details>
 
 </details>
